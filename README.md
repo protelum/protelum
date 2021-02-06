@@ -5,6 +5,7 @@ We are a group of peers collaborating on building open-source projects that help
 
 ### Members
 - [Aman Shrestha](https://www.github.com/amnshrestha)
+- [Bishwash Krishna Parajuli](https://github.com/bishwash369)
 - [Kritan Duwal](https://www.github.com/kritanduwal)
 - [Rajil Shrestha](https://www.github.com/rajeel8)
 - [Swornim Barahi](https://www.github.com/swornimbarahi)
